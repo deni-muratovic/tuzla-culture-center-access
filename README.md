@@ -26,7 +26,7 @@ print(f"Population with access: {total_population_served}")
 print(f"Percentage of population served: {accessibility_percentage:.2f}%")
 
 
-###SQL
+### SQL
 -- Create a table for the institutions
 CREATE TABLE domovi_kulture (
     id INTEGER PRIMARY KEY,
