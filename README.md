@@ -1,11 +1,15 @@
 # tuzla-culture-center-access
 
+A spatial equity analysis of "domovi kulture" (public culture centers) in Tuzla, Bosnia and Herzegovina.
+
 # Spatial Equity Analysis of Culture Centers in Tuzla, Bosnia & Herzegovina
 
 ## Project Overview
 This project analyzes the walking accessibility of *domovi kulture* (public culture centers) in Tuzla, Bosnia and Herzegovina. The analysis identifies spatial inequities by calculating what percentage of the population lives within an 800m walk of these institutions. This is a supplement to my 2024 Master's thesis for the 4CITIES Erasmus Mundus Joint Master's Degree program.
 
 **Key Finding:** Only **~2.3%** of the city's population has walking access to a cultural center, highlighting a significant urban equity gap.
+
+![Final Map of Cultural Center Accessibility](tuzla_culture_centers_final_map.png)
 
 ## Methodology
 1.  **Data Acquisition:** Culture center locations were digitized manually. The pedestrian network was extracted from OpenStreetMap. Population data came from WorldPop (2025 estimates).
