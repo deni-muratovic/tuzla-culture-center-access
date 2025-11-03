@@ -16,7 +16,6 @@ This project analyzes the walking accessibility of *domovi kulture* (public cult
 ## Code & Automation
 
 ### Python
-# Calculate the percentage of population with access to cultural centers
 total_population_served = 2979.24  # Result from QGIS Zonal Statistics
 total_city_population = 131402
 
